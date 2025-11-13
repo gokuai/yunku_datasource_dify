@@ -1,0 +1,20 @@
+identity:
+  name: yunku
+  author: gokuai_yunku
+  label:
+    en_US: gokuai yunku
+    zh_Hans: 够快云库
+description:
+  en_US: Get files from your gokuai yunku
+  zh_Hans: 从您的够快云库中获取文件
+
+parameters:
+
+output_schema:
+    type: object
+    properties:
+      file:
+        $ref: "https://dify.ai/schemas/v1/file.json"
+extra:
+  python:
+    source: datasources/yunku.py
