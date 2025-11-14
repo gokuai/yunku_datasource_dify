@@ -1,8 +1,8 @@
 identity:
   name: yunku
-  author: gokuai_yunku
+  author: gokuai_yunku_datasource
   label:
-    en_US: gokuai yunku
+    en_US: gokuai yunku datasource
     zh_Hans: 够快云库
 description:
   en_US: Get files from your gokuai yunku

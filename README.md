@@ -59,3 +59,12 @@ To download a file:
 ## Privacy
 
 Please refer to the [Privacy Policy](PRIVACY.md) for information on how your data is handled when using this plugin.
+
+## Support
+
+For issues or questions:
+
+- Repository: [https://github.com/gokuai/yunku_datasource_dify](https://github.com/gokuai/yunku_datasource_dify)
+
+Last updated: Novmber 2025
+

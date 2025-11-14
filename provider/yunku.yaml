@@ -1,8 +1,8 @@
 identity:
   author: gokuai
-  name: gokuai_yunku
+  name: gokuai_yunku_datasource
   label:
-    en_US: gokuai yunku
+    en_US: gokuai yunku datasource
     zh_Hans: 够快云库
   description:
     en_US: gokuai yunku Datasource
