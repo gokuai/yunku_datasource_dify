@@ -1,7 +1,7 @@
 version: 0.0.1
 type: plugin
 author: gokuai
-name: gokuai_yunku_datasource
+name: yunku_datasource
 label:
   en_US: gokuai yunku
   zh_Hans: 够快云库
